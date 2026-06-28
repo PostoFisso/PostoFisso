@@ -12,8 +12,8 @@ Informatics student (L31) progressing toward LM66 Cybersecurity. Focused on Offe
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e9c3b4e9-e1cc-4921-bd5d-70ec1d740096" width="50" /><br/>
-      <strong>CEH</strong><br/>
-      Certified Ethical Hacker
+      <strong>Certified Ethical Hacker</strong><br/>
+      EC-Council
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/0ba389c9-6133-4c8b-a7ac-db1facdab698" width="50" /><br/>
@@ -22,23 +22,25 @@ Informatics student (L31) progressing toward LM66 Cybersecurity. Focused on Offe
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/857e1ed9-ed9f-4a14-8cac-e7b40c48c26e" width="50" /><br/>
-      <strong>CCT</strong><br/>
-      Cybersecurity Technician
+      <strong>Certified Cybersecurity Technician</strong><br/>
+      EC-Council
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/f00feb59-197c-465c-a17e-b8cabfb101ac" width="50" /><br/>
-      <strong>EHE</strong><br/>
-      Ethical Hacking Essentials
+      <strong>Ethical Hacking Essentials</strong><br/>
+      EC-Council
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/cdd47164-04dd-4f88-baa2-da09e84371d8" width="50" /><br/>
-      <strong>Fortinet Associate</strong>
+      <strong>Certified Associate</strong><br/>
+      Fortinet
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/8e4893cb-aefd-469e-bd29-ee5357a1698a" width="50" /><br/>
-      <strong>Fortinet Fundamentals</strong>
+      <strong>Certified Fundamentals</strong><br/>
+      Fortinet
     </td>
   </tr>
 </table>
